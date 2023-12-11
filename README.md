@@ -1,5 +1,12 @@
-## PRAKTIKUM 8
+## PERTEMUAN KE 12
 # NilaiMahasiswa Class
+
+## Program Class Data_Mahasiswa
+* **Diagram Class**
+![img](Gambar/1.png)
+
+* **Flowchart**
+![img](Gambar/2.png)
 
 ## Overview
 The `NilaiMahasiswa` class is a simple Python class designed to manage and manipulate student data, specifically their names and corresponding grades. The class provides functionality to add, display, update, and delete student records.
